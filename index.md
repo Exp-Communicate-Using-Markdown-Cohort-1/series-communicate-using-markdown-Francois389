@@ -7,6 +7,9 @@ fun main() {
 }
 ```
 ### Header
+- [x] Check number 2
+- [x] Check at least two
+- [ ] Check none
 #### header
 ##### Small Header
 ###### Very Small Header
